@@ -236,10 +236,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_webrtc
-      sha256: "2f17fb96e0c9c6ff75f6b1c36d94755461fc7f36a5c28386f5ee5a18b98688c8"
+      sha256: "24395d6f68965e333426f3319a322f12dcebcdb22de55bfc5f260f3d45157be3"
       url: "https://pub.dev"
     source: hosted
-    version: "0.9.48+hotfix.1"
+    version: "0.10.0"
   glob:
     dependency: transitive
     description:
